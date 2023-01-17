@@ -3,4 +3,4 @@
 
 This program is under heavy development and is unstable. Do not use in production!
 
-The name is dedicated to all the League of Legends enjoyers of College Prep's Class of 2023. Surprisingly the (albeit limited) desire to automatically accept league queues overlaps with my desire to be *"lazy"* and spend like 100 hours automating a task that normally takes like 10 minutes [Thanks Julie for pointing this out...] -Jim
+The name is dedicated to all the League of Legends enjoyers of College Prep's Class of 2023. Surprisingly the (albeit limited) desire to automatically accept league queues overlaps with my desire to be *"lazy"* and spend 100+ hours automating a task that normally takes ~10 minutes [Thanks Julie for pointing this out...] -Jim
